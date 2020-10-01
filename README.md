@@ -3,7 +3,7 @@
 
 ## Project Overview
 This application is to make a user interface where a user can learn by selecting different model and playing with hyperparameters.<br><br>
-! [Confusion Matrix](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png?raw=true)
+<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png" alt="Confusion Matrix" width="600" height="600"/>
 
 ---
 ! [ROC-AUC Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/roc-auc.png?raw=True)
