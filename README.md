@@ -2,14 +2,14 @@
 # Binary Classification Web App
 
 ## Project Overview
-This application is to make a user interface where a user can learn by selecting different model and playing with hyperparameters.<br><br>
+This application is to make a user interface where a user can learn by selecting different models and play with hyperparameters.<br><br>
 <img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png" alt="Confusion Matrix"/>
 
 ---
 <img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/roc-auc.png" alt="ROC-AUC Curve"/>
 
 ---
-<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/precision-recall.png" alt="Precision Recall Curve"/>
+<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/precison-recall.png" alt="Precision Recall Curve"/>
 
 ---
 <img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/data.png" alt="Raw data"/>
