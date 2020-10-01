@@ -2,17 +2,17 @@
 # Binary Classification Web App
 
 ## Project Overview
-This application is to make a user interface where a user can learn by selecting different model and playing with hyperparameters.<br>
-! [Confusion Matrix](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png)
+This application is to make a user interface where a user can learn by selecting different model and playing with hyperparameters.<br><br>
+! [Confusion Matrix](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png?raw=true)
 
 ---
-! [ROC-AUC Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/roc-auc.png)
+! [ROC-AUC Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/roc-auc.png?raw=True)
 
 ---
-! [Precision Recall Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/precision-recall.png)
+! [Precision Recall Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/precision-recall.png?raw=True)
 
 ---
-! [Raw data](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/data.png)
+! [Raw data](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/data.png?raw=True)
 
 ## How To Run This Application
 After downloading the file, type in your Command prompt:<br>
@@ -25,7 +25,6 @@ This project uses the following software and libraries:
 * [pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
-* [Plotly-Express](https://plotly.com/python/plotly-express/)
 
 ## Contact
 Email: pranaykankariya97@gmail.com <br>
