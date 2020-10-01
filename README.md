@@ -3,19 +3,19 @@
 
 ## Project Overview
 This application is to make a user interface where a user can learn by selecting different model and playing with hyperparameters.
-! [Confusion Matrix](images\confusion-matrix.png)
+! [Confusion Matrix](Images/confusion-matrix.png)
 
 ---
-! [ROC-AUC Curve](images\roc-auc.png)
+! [ROC-AUC Curve](Images/roc-auc.png)
 
 ---
-! [Precision Recall Curve](images\precision-recall.png)
+! [Precision Recall Curve](Images/precision-recall.png)
 
 ---
-! [Raw data](images\data.png)
+! [Raw data](Images/data.png)
 
 ## How To Run This Application
-After downloading the file, type in your Command prompt:
+After downloading the file, type in your Command prompt:<br>
 `streamlit run Binary_Classifier.py`
 
 ## Software And Libraries
@@ -28,6 +28,6 @@ This project uses the following software and libraries:
 * [Plotly-Express](https://plotly.com/python/plotly-express/)
 
 ## Contact
-Email: pranaykankariya97@gmail.com
-Project Link: [https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset)
+Email: pranaykankariya97@gmail.com <br>
+Project Link: [https://github.com/pranaykankariya97/Binary-Classification-Web-App](https://github.com/pranaykankariya97/Binary-Classification-Web-App)
 
