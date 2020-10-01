@@ -3,16 +3,16 @@
 
 ## Project Overview
 This application is to make a user interface where a user can learn by selecting different model and playing with hyperparameters.<br><br>
-<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png" alt="Confusion Matrix" width="600" height="600"/>
+<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/confusion-matrix.png" alt="Confusion Matrix"/>
 
 ---
-! [ROC-AUC Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/roc-auc.png?raw=True)
+<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/roc-auc.png" alt="ROC-AUC Curve"/>
 
 ---
-! [Precision Recall Curve](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/precision-recall.png?raw=True)
+<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/precision-recall.png" alt="Precision Recall Curve"/>
 
 ---
-! [Raw data](https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/data.png?raw=True)
+<img src="https://github.com/pranaykankariya97/Binary-Classification-Web-App/blob/master/Images/data.png" alt="Raw data"/>
 
 ## How To Run This Application
 After downloading the file, type in your Command prompt:<br>
